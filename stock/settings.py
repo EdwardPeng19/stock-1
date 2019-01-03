@@ -92,7 +92,7 @@ ITEM_PIPELINES = {
 
 
 
-PROXY_URL = 'http://132.232.35.169:5555/random'
+PROXY_URL = 'http://localhost:5555/random'
 
 MONGO_URI = 'localhost'
 MONGO_DB = 'stock'

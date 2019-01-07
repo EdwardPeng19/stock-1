@@ -1,5 +1,5 @@
 # stock
-## 同花顺http://basic.10jqka.com.cn/股票信息爬取
+## 同花顺http://basic.10jqka.com.cn/ 股票信息爬取
 ## 主要字段：
     b_cate = scrapy.Field()  # 大分类名称
     s_href = scrapy.Field()  # 中分类名称
